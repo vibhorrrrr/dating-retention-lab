@@ -180,6 +180,10 @@ Synthetic data allows:
 
 The goal is **mechanism discovery**, not prediction of any specific platform.
 
+The full reasoning can be viewed by clicking the below link or directly accessing the `/SYNTHETIC_DATA.md` file.
+
+-> **[View reasoning](./SYNTHETIC_DATA.md)**
+
 ---
 
 ## Frequently Asked Question
