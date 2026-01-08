@@ -182,6 +182,14 @@ The goal is **mechanism discovery**, not prediction of any specific platform.
 
 ---
 
+## Frequently Asked Question
+
+The FAQs can be viewed by clicking the below link or directly accessing the `/FAQ.md` file.
+
+-> **[View results](./FAQ.md)**
+
+---
+
 ## Core insight
 
 > Optimizing for love and optimizing for retention are not the same problem.
