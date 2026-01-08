@@ -1,4 +1,4 @@
-# Defensive FAQ
+# FAQ
 
 This FAQ addresses the most common objections raised when people see this project.
 If a question sounds aggressive, that is intentional. These are real critiques.
