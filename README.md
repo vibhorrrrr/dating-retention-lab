@@ -190,7 +190,7 @@ The full reasoning can be viewed by clicking the below link or directly accessin
 
 The FAQs can be viewed by clicking the below link or directly accessing the `/FAQ.md` file.
 
--> **[View results](./FAQ.md)**
+-> **[View QnA](./FAQ.md)**
 
 ---
 
